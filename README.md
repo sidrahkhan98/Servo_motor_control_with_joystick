@@ -2,3 +2,6 @@
 
 Joystick has 2 potentiometes and one switch.
 I used one of the pot to control the angle of motor using Arduino
+
+Project video
+https://youtu.be/UBZEbHkQSwM
